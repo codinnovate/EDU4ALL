@@ -1,0 +1,15 @@
+body{
+	background-color:#fff;
+	box-sizing: border-box;
+}
+.forms{
+	margin: 50px 0px 0px 0px;
+}
+.formse{
+	margin: 90px 50px 0px 50px;
+
+}
+
+#log{
+	font-size:60px;
+}
